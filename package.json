@@ -4,6 +4,7 @@
   "description": "A simple discord bot which sends a gif when provoked.",
   "main": "index.js",
   "scripts": {
+    "start": "node .",
     "devStart": "nodemon ."
   },
   "author": "",
