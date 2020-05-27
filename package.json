@@ -1,5 +1,5 @@
 {
-  "name": "gifboi",
+  "name": "gifbot",
   "version": "1.0.0",
   "description": "A simple discord bot which sends a gif when provoked.",
   "main": "index.js",
