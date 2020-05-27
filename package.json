@@ -7,7 +7,7 @@
     "start": "node .",
     "devStart": "nodemon ."
   },
-  "author": "",
+  "author": "Kaushal",
   "license": "ISC",
   "dependencies": {
     "discord.js": "^12.2.0",
