@@ -37,4 +37,6 @@ This will spin up nodemon for you.
 
 * To try this out yourself, you have to create an application on discord in the developer menu.
 
+* You also need to authorize the bot to work on your specific server provided you have that privilege/permission to do so.
+
 * For the gif-sending functionality, you first have to get a API key from GIPHY.
