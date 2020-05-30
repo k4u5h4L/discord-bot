@@ -32,6 +32,7 @@ This will spin up nodemon for you.
 ## Links/references:
 
 * Gifs taken from [GIPHY](https://giphy.com/)
+* Memes taken from [this API](https://meme-api.herokuapp.com/gimme) 
 
 ### Note:
 
