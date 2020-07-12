@@ -7,7 +7,7 @@ A simple discord bot which sends a random gif when called.
 * Clone this repo and navigate to it.
 
 ```
-git clone https://github.com/theParanoidScripts/gifBot.git && cd gitBot
+git clone https://github.com/k4u5h4L/gifBot.git && cd gitBot
 ```
 
 * Install the required dependencies.
